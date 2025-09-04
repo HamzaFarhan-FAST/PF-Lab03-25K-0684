@@ -1,6 +1,7 @@
-# Name
+# About Me
+## Name
 Hamza Farhan
-# Degree Program
+## Degree Program
 Bachelors in Computer Science
-# Hobby
+## Hobby
 Editing Videos
