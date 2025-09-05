@@ -1,10 +1,6 @@
 # PF-Lab03-25K-0684
 ## Description
-Myself Hamza Farhan and a Rookie Coder
-<br/>
-We are learning **GitHub Basics**
-<br/>
-_Just Changing font styles_
+Myself _Hamza Farhan_ and a **Rookie** Coder
 <br/>
 ***Languages I know are***
 - Python
@@ -14,6 +10,7 @@ _Just Changing font styles_
 - C++
 <br/>
 Advice to Learn Code
+
  1. Be Focused
  2. Be Discplined
  3. Be Consistent
