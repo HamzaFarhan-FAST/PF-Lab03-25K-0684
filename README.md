@@ -9,7 +9,7 @@ Myself _Hamza Farhan_ and a **Rookie** Coder
 - C
 - C++
 <br/>
-Advice to Learn Code
+Advices to Learn Coding
 
  1. Be Focused
  2. Be Discplined
